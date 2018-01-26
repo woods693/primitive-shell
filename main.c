@@ -1,10 +1,3 @@
-////////////////////////////////////////////////////////////
-//  name: Woody Chen Lin Chang                            //
-//  studentID: 301 231 083                                //
-//  class: Cmpt 300                                       //
-//  prof: Ryan Shea                                       //
-//  Assignment 1-2                                        //
-////////////////////////////////////////////////////////////
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
